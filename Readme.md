@@ -10,4 +10,9 @@ Before running this locally you must have these installed
 - Handtrack.js - real-time hand detection
 ### Language: Javascript
 
+### Sample screenshots
+
+![](left.png)
+![](Center.png)
+
 
