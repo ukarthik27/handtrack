@@ -2,7 +2,7 @@
 
 # HandTrack
 
-Track and move 3d objects rendered using webGL and hand-detection using CNN on the web. CNN is trained using tensorflow object detection api
+Move 3d objects rendered using webGL on real time hand-detection and tracking using Handtrack.js on the web. It uses a CNN which is trained using tensorflow object detection api
 
 ### Prerequisites
 Before running this locally you must have these installed
